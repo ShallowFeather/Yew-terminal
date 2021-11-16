@@ -1,6 +1,3 @@
-mod command;
-mod control;
-
 use web_sys::*;
 use yew::web_sys::HtmlInputElement as InputElement;
 use yew::prelude::*;
